@@ -1,4 +1,4 @@
 In the attached excel file (worldcities short), information about more than 15,000 cities of the world is included. 
 This information includes: city name, latitude and longitude in terms of (lat, lng) and country name.
 This program should read the names of a number of cities from a file. 
-Then, using the longitude and latitude given in the attached file( for those cities, produce a table of their two-by-two distances in another Excel file
+Then, using the longitude and latitude given in the attached file(cities_distance)for those cities, produce a table of their two-by-two distances in another Excel file
