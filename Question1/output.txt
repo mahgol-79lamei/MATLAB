@@ -1,0 +1,4 @@
+waldorf	2	5
+bambi	2	3
+betty	1	2
+dagbert	7	8
