@@ -9,4 +9,7 @@ my program reads an input file named in.txt containing a table of letters and wo
 In this file, first the word and then the row and column number of the first letter in the letter table are written.
 If it does not exist in the table, instead of the row and column, 0 is written in front of it
 # Question2:
-
+In the attached Excel file (worldcities short), information about more than 15,000 cities of the world is included. 
+This information includes: city name, latitude and longitude in terms of (lat, lng) and country name.
+This program reads the names of a number of cities from a file. 
+Then, using the longitude and latitude given in the attached file(cities_distance)for those cities, produce a table of their two-by-two distances in another Excel file
