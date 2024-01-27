@@ -13,3 +13,8 @@ In the attached Excel file (worldcities short), information about more than 15,0
 This information includes: city name, latitude and longitude in terms of (lat, lng) and country name.
 This program reads the names of a number of cities from a file. 
 Then, using the longitude and latitude given in the attached file(cities_distance)for those cities, produce a table of their two-by-two distances in another Excel file
+# Qustion3:
+An image that consists of only black and white pixels is stored with
+an array of zeros and ones. The purpose of the program is to read a black and white
+image. It receives the coordinates of a pixel and then blacks out the closed space
+containing the given pixel.
